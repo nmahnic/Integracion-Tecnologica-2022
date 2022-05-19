@@ -24,4 +24,10 @@ En el archivo README.md deberán indicar que nombre de archivo de la carpeta 'im
     - Adjuntar imagen del repositorio visto desde Gitkraken
 
 
-
+Entregaron: 
+- Oliver Cairnie : https://github.com/OliverK4/IT-2022-TP1
+- Brian Corvalan : https://github.com/brian0496/IT-2022-TP1.git
+- Horacio Donato : https://github.com/hdonato1/IT-2022--TP1
+- Capiz Nicolás : https://github.com/NicolasCapiz/IT-2022-TP1
+- Tomás Pandullo : https://github.com/Tomy97/IT-2022-TP1
+- Sol Young : https://github.com/solyoung99/IT-2022-TP1
